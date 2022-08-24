@@ -6,6 +6,6 @@ public class DealPage extends BasePage{
 
 	
 	public void deal() {
-		System.out.println("This is a deal Page");
+		driver.getTitle();
 	}
 }
